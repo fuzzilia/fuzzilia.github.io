@@ -10,3 +10,4 @@
 - [説明書](./manual/)
 - [設定ツール](https://fuzzilia.github.io/sh-config/)
 - [ファームウェアソースコード](https://github.com/fuzzilia/sh-controller-nrf52)
+- [ファームウェア書込ツールダウンロードページ](https://github.com/fuzzilia/sh-writerForShCon/releases)（[ソースコード](https://github.com/fuzzilia/sh-writerForShCon)）
