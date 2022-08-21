@@ -5,7 +5,7 @@
 ## 連絡先
 
 - email : fuzzilia.info@gmail.com
-- twitter : coming soon...
+- twitter : [@fuzzilia](https://twitter.com/fuzzilia)
 
 ## 制作物
 
