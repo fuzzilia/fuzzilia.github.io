@@ -305,7 +305,6 @@ SH-Controller v2 はボタン部を組み替えることにより、右手用に
   - 耐熱ビニル電線 AWG26 (紫)
   - 耐熱ビニル電線 AWG26 (橙)
 - Seeed Studio XIAO RP2040
-- USB ケーブル USB2.0 Type-A オス ⇔Type-C オス 0.5m
 - はんだ付けキット
   - はんだ (太さ 0.8mm 鉛入り)
   - 練習用基板
