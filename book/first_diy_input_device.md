@@ -166,13 +166,13 @@ Ctrlのような修飾キーの入力は下記のようにします。
 
 その他のキー入力をどう書くかは、[Arduinoの Keyboard Modifiers and Special Keys ページ](https://docs.arduino.cc/language-reference/en/functions/usb/Keyboard/keyboardModifiers/) を参照してください。
 
-## P15
+## P15 ピン配置図
 
 Raspberry Pi Pico のピン配置図は以下
 
 https://datasheets.raspberrypi.com/pico/Pico-R3-A4-Pinout.pdf
 
-## P19
+## P19 キーボードプログラム
 
 GPIO1、GPIO2 にスイッチを繋げた場合、下記プログラムでGPIO1に繋いだスイッチを押すとaが入力され、GPIO2に繋いだスイッチを押すとbが入力されます。
 
