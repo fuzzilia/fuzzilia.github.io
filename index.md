@@ -11,6 +11,7 @@
 
 - [SH-Controller](./sh-controller/)
 - [RPicoBoy](./rpicoboy/index)
+- [AVRBoy](./avrboy/index)
 
 ## その他
 
