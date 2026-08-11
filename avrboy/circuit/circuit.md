@@ -11,9 +11,11 @@ AVRBoyの回路図は以下になっています。
 AVRBoyの基板は以下になっています(※金色部分は実際の基板では銀色となります)。
 
 - 基板表
+
 ![](./img/avrboy_circuit_front.png)
 
 - 基板裏
+
 ![](./img/avrboy_circuit_back.png)
 
 ## 3. 部品
